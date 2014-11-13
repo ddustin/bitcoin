@@ -109,6 +109,8 @@ qrc_*.cpp
 # Mac specific
 .DS_Store
 build
+bitcoin.xcodeproj/project.xcworkspace/xcuserdata
+bitcoin.xcodeproj/xcuserdata
 
 # Previous releases
 releases
